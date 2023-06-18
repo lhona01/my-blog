@@ -1,0 +1,10 @@
+identifier: lej003w380d1hcfd
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: my-blog
+homeFolder: /home/lomus/Desktop/Angular/my-blog
+distFolder: dist/my-blog
+outDir: /home/lomus/Desktop/Angular/my-blog/dist/static
+handle404: ''
