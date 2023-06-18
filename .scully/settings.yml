@@ -8,3 +8,4 @@ homeFolder: /home/lomus/Desktop/Angular/my-blog
 distFolder: dist/my-blog
 outDir: /home/lomus/Desktop/Angular/my-blog/dist/static
 handle404: ''
+allowErrorCollect: false
